@@ -63,7 +63,7 @@ body {
 }
 
 .username-input {
-  margin: 0px 16px 38px 16px;
+  margin: 0px 16px 44px 16px;
   padding: 10px;
   background-color: #f1f1f1;
   border-radius: 4px;
@@ -119,13 +119,13 @@ body {
 
 .coin-price {
   color: #666;
-  font-size: 14px;
+  font-size: 13px;
 }
 
 .payment-section {
   padding: 16px;
   position: absolute;
-  bottom: 334px;
+  bottom: 26%;
   width: 100%;
 }
 
